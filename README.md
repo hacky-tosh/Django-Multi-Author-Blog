@@ -2,3 +2,9 @@
 
 A Django blog where anyone can register himself and post his ideas through blogs 
 A django blog with many functionality 
+
+Frontend : HTML5 , CSS3, Bootstrap 
+Backend : Django
+Database : SQLite3
+
+
